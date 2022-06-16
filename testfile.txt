@@ -1,3 +1,5 @@
 This is a test file
 Adding new line 1
 Adding new line 2
+Adding new line 3
+Adding new line 4
